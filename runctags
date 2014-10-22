@@ -1,0 +1,1 @@
+ctags -e -L cscope.files --extra=+q   --C++-kinds=+l   --C++-kinds=+p   --C++-kinds=+x
